@@ -1,18 +1,28 @@
-analytics: {}
+name: Haught Graphics
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.618421
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#481810'
-    - '#A05850'
-    - '#D86050'
-    - '#E06058'
+    - '#dcdacb'
+    - '#3b3a38'
+    - '#ba8b77'
+    - '#cdb99e'
+    - '#7c5140'
   brandStrength: 0.679276
   lightness: 0.995066
-  rhythmicContrast: 0.489309
   saturation: 0.484375
-cta: {}
-layout_spectrum: 0
-name: Haught Graphics
-opengraph: {}
+  rhythmicContrast: 0.489309
 purpose: []
-typography_spectrum: 0.618421
