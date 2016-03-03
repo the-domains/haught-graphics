@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Haught Graphics]]></title>
         <description><![CDATA[Haught Graphics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/haught-graphics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 04:22:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 20:49:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/haught-graphics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined1a25ee46-6fdc-4fad-8aab-d86a6de7ba6d/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55a4ed0c-6384-4fad-919b-8e3f2df56255.png">]]></description>
+            <link>https://thegrid.ai/haught-graphics/1a25ee46-6fdc-4fad-8aab-d86a6de7ba6d/index.html</link>
             <guid isPermaLink="false">1a25ee46-6fdc-4fad-8aab-d86a6de7ba6d</guid>
-            <pubDate>Wed, 02 Mar 2016 04:22:26 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 20:47:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
