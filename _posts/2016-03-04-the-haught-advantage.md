@@ -6,20 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T06:29:11.535Z'
-dateModified: '2016-03-04T06:28:39.990Z'
+datePublished: '2016-03-04T06:34:45.300Z'
+dateModified: '2016-03-04T06:34:44.576Z'
 title: The Haught Advantage
+author: []
+sourcePath: _posts/2016-03-04-the-haught-advantage.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-03-04-the-haught-advantage.md
-published: true
 url: the-haught-advantage/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e65a3f8-345a-4e8b-b1a7-f4b5d70701b6.png)
+
+Welcome to Haught Graphics!  Haught graphics is an Akron Ohio based small business specializing in custom clothing and promotional products.  We have been in business since 2012 and and we are committed on introducing new products and services in the near future!
