@@ -2,13 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: 'Custom Clothing  | Promotional Products'
-datePublished: '2016-03-04T20:32:17.845Z'
-dateModified: '2016-03-04T20:32:10.815Z'
+datePublished: '2016-03-04T20:38:16.023Z'
+dateModified: '2016-03-04T20:37:52.690Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-04-haught-graphics.md
@@ -22,4 +21,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/614942c4ee93ea831cbaadc3a681c6da6fb275a3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a365a635-cdcb-4414-ab4b-04e513533503.jpg)
