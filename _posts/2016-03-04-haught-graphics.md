@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T23:14:49.494Z'
-dateModified: '2016-03-04T23:14:47.454Z'
+datePublished: '2016-03-04T23:42:27.808Z'
+dateModified: '2016-03-04T23:41:14.048Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-04-haught-graphics.md
@@ -21,4 +21,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87436a10-9758-4797-ae4c-427d34fa5b70.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f350484a-a040-45d9-b3a1-6b3cea3ea944.jpg)
