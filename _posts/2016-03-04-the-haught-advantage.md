@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T06:42:38.445Z'
-dateModified: '2016-03-04T06:42:00.333Z'
+datePublished: '2016-03-04T06:43:44.042Z'
+dateModified: '2016-03-04T06:42:48.218Z'
 title: The Haught Advantage
 author: []
 sourcePath: _posts/2016-03-04-the-haught-advantage.md
