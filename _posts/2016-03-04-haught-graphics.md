@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: 'Custom Clothing  | Promotional Products'
-datePublished: '2016-03-04T06:40:42.503Z'
-dateModified: '2016-03-04T06:40:41.571Z'
-title: Haught Graphics
+datePublished: '2016-03-04T19:57:38.175Z'
+dateModified: '2016-03-04T19:57:28.646Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-04-haught-graphics.md
 published: true
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: haught-graphics/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40780763-5a2d-47b7-a67b-ba400c7aec5d.png)
