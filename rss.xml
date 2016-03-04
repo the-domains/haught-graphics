@@ -4,7 +4,7 @@
         <description><![CDATA[Haught Graphics]]></description>
         <link>http://www.haughtgraphics.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 04:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 04:23:46 GMT</lastBuildDate>
         <atom:link href="http://www.haughtgraphics.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.haughtgraphics.com/1a25ee46-6fdc-4fad-8aab-d86a6de7ba6d/index.html</link>
             <guid isPermaLink="false">1a25ee46-6fdc-4fad-8aab-d86a6de7ba6d</guid>
             <pubDate>Fri, 04 Mar 2016 04:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcd5448a-bb80-4f45-90a7-177b731ecc26.jpg">]]></description>
+            <link>http://www.haughtgraphics.com/77aade5e-cf38-4c97-bcbb-cc95c62af29b/index.html</link>
+            <guid isPermaLink="false">77aade5e-cf38-4c97-bcbb-cc95c62af29b</guid>
+            <pubDate>Fri, 04 Mar 2016 04:22:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
