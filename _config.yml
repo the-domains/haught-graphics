@@ -1,19 +1,4 @@
-name: Haught Graphics
-favicon: null
-layout_spectrum: 0.24367
-typography_spectrum: 0.3657
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#dcdacb'
@@ -23,6 +8,11 @@ color:
     - '#7c5140'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
   rhythmicContrast: 0
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.24367
+name: Haught Graphics
+opengraph: {}
 purpose: []
+typography_spectrum: 0.3657
