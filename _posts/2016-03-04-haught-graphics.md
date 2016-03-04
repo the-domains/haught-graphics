@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-04T23:43:59.618Z'
-dateModified: '2016-03-04T23:43:54.322Z'
+description: 'Promotional Products | Custom Clothing'
+datePublished: '2016-03-04T23:44:26.293Z'
+dateModified: '2016-03-04T23:44:21.416Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-04-haught-graphics.md
