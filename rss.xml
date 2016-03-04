@@ -2,20 +2,14 @@
     <channel>
         <title><![CDATA[Haught Graphics]]></title>
         <description><![CDATA[Haught Graphics]]></description>
-        <link>http://www.haughtgraphics1.com/</link>
+        <link>http://www.haughtgraphics.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 00:33:53 GMT</lastBuildDate>
-        <atom:link href="http://www.haughtgraphics1.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.facebook.com/Haught-Graphics-629604403719779/?fref=ts</link>
-            <guid isPermaLink="false">77aba4fb-8e46-4cf4-b840-8d43496edf73</guid>
-            <pubDate>Fri, 04 Mar 2016 00:33:52 GMT</pubDate>
-        </item>
+        <lastBuildDate>Fri, 04 Mar 2016 04:00:56 GMT</lastBuildDate>
+        <atom:link href="http://www.haughtgraphics.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55a4ed0c-6384-4fad-919b-8e3f2df56255.png">]]></description>
-            <link>http://www.haughtgraphics1.com/1a25ee46-6fdc-4fad-8aab-d86a6de7ba6d/index.html</link>
+            <link>http://www.haughtgraphics.com/1a25ee46-6fdc-4fad-8aab-d86a6de7ba6d/index.html</link>
             <guid isPermaLink="false">1a25ee46-6fdc-4fad-8aab-d86a6de7ba6d</guid>
             <pubDate>Thu, 03 Mar 2016 20:47:23 GMT</pubDate>
         </item>
