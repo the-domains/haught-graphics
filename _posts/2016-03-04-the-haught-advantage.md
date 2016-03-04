@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T06:40:36.550Z'
-dateModified: '2016-03-04T06:40:20.308Z'
+datePublished: '2016-03-04T06:41:52.955Z'
+dateModified: '2016-03-04T06:40:56.037Z'
 title: The Haught Advantage
 author: []
 sourcePath: _posts/2016-03-04-the-haught-advantage.md
