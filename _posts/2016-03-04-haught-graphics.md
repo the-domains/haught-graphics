@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-04T06:22:12.656Z'
-dateModified: '2016-03-04T06:20:35.634Z'
+description: 'Custom Clothing  | Promotional Products'
+datePublished: '2016-03-04T06:25:44.765Z'
+dateModified: '2016-03-04T06:24:24.735Z'
 title: Haught Graphics
 author: []
 sourcePath: _posts/2016-03-04-haught-graphics.md
