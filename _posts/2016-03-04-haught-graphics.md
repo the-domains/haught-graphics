@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T06:13:27.569Z'
-dateModified: '2016-03-04T06:13:03.478Z'
+datePublished: '2016-03-04T06:16:03.585Z'
+dateModified: '2016-03-04T06:15:41.897Z'
 title: Haught Graphics
 author: []
+sourcePath: _posts/2016-03-04-haught-graphics.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-haught-graphics.md
-published: true
 url: haught-graphics/index.html
 _type: Article
 
