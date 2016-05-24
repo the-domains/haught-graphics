@@ -2,11 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-24T18:08:01.244Z'
-dateModified: '2016-05-24T18:03:08.245Z'
+datePublished: '2016-05-24T19:47:51.151Z'
+dateModified: '2016-05-24T19:47:15.535Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-04-haught-graphics.md
