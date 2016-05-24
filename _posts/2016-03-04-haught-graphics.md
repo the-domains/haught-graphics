@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-24T19:47:51.151Z'
-dateModified: '2016-05-24T19:47:15.535Z'
+datePublished: '2016-05-24T19:48:21.757Z'
+dateModified: '2016-05-24T19:48:01.005Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-04-haught-graphics.md
