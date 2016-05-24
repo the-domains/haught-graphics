@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-24T18:02:07.576Z'
-dateModified: '2016-05-24T18:01:54.829Z'
+datePublished: '2016-05-24T18:08:01.244Z'
+dateModified: '2016-05-24T18:03:08.245Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-04-haught-graphics.md
