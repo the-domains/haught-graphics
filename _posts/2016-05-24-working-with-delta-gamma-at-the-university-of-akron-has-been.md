@@ -2,17 +2,18 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Working with Delta Gamma at The University of Akron has been a great experience. Could not be more happy with how these shirts came out!'
-datePublished: '2016-05-24T03:51:04.099Z'
-dateModified: '2016-05-24T03:50:51.800Z'
+datePublished: '2016-05-24T04:04:59.393Z'
+dateModified: '2016-05-24T04:04:59.122Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-24-working-with-delta-gamma-at-the-university-of-akron-has-been.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-24-working-with-delta-gamma-at-the-university-of-akron-has-been.md
 _context: 'http://schema.org'
 _type: Article
 
