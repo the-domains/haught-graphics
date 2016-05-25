@@ -1,20 +1,4 @@
-name: Haught Graphics
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.58893
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74721730-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#006573'
@@ -24,4 +8,20 @@ color:
   lightness: 0.5
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: UA-74721730-1
+  facebook: null
+  twitter: null
+name: Haught Graphics
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/b68fb5a2-9af7-4e7a-902e-b66e0cff4658.png'
+title: null
 purpose: []
