@@ -1,14 +1,14 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-08-03T17:21:54.186Z'
-dateModified: '2016-08-03T17:21:11.881Z'
+datePublished: '2016-08-03T17:23:42.967Z'
+dateModified: '2016-08-03T17:23:40.630Z'
+publisher: {}
 author: []
 inFeed: false
 hasPage: true
 inNav: true
 description: ''
-publisher: {}
 via: {}
 starred: false
 sourcePath: _posts/2016-05-24-our-portfolio.md
